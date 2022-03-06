@@ -18,3 +18,14 @@ button:hover {
   margin-top: 0.8rem;
   margin-bottom: 1.2rem;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 1.2rem;
+}
